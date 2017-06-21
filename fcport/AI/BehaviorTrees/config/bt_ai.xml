@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<SELECTOR>
+    
+    <SELECTOR>
+        <ACTION class="IS_GETTING_UP" />
+        
+        <SEQUENCE>
+            <ACTION class="IS_ON_GROUND" groundtype="0" />
+            <ACTION class="GETUP" groundtype="0" />
+        </SEQUENCE>
+
+        <SEQUENCE>
+            <ACTION class="IS_ON_GROUND" groundtype="1" />
+            <ACTION class="GETUP" groundtype="1" />
+        </SEQUENCE>
+
+        <SEQUENCE>
+            <ACTION class="IS_ON_GROUND" groundtype="2" />
+            <ACTION class="GETUP" groundtype="2" />
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION class="IS_ON_GROUND" groundtype="3" />
+            <ACTION class="GETUP" groundtype="3" />
+        </SEQUENCE>  
+        
+    </SELECTOR>  
+    
+    
+    <SEQUENCE_OR>
+        <SEQUENCE>
+            <ACTION class="IS_FAR_FROM_BALL" distance="0.2" />
+            <ACTION class="WALK_TO_BALL" />
+        </SEQUENCE>
+        
+        <SEQUENCE>
+            <ACTION class="IS_UNSTABLE" frontoffset="0.06" backoffset="-0.02" leftoffset="0.03" rightoffset="-0.03" />
+            <ACTION class="STABILIZE" />
+        </SEQUENCE>
+    </SEQUENCE_OR>
+
+    <SEQUENCE_OR>
+  <SEQUENCE>
+        <ACTION class="IS_NEAR_BALL" distance="0.2" />
+        <ACTION class="DRIBBLE" />
+    </SEQUENCE>    
+    
+        
+        <SEQUENCE>
+            <ACTION class="IS_UNSTABLE" frontoffset="0.06" backoffset="-0.02" leftoffset="0.03" rightoffset="-0.03" />
+            <ACTION class="STABILIZE" />
+        </SEQUENCE>
+    </SEQUENCE_OR>
+ 
+    
+    
+</SELECTOR>

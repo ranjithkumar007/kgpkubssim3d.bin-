@@ -1,0 +1,65 @@
+UT Austin Villa 2016 RoboCup 3D Simulation League Team
+University of Texas at Austin Computer Science Department, USA
+Champions of RoboCup 2016 in Leipzig, Germany
+
+This binary was compiled and tested on a 64-bit Ubuntu 14.04.2 
+(Trusty Tahr) system.  It was used in the RoboCup 2016 competition in 
+Leipzig, Germany.
+
+Compatibility:
+rcssserver3d 0.7.0
+simspark 0.3.0
+
+
+-- Instructions for running agent --
+Run full team:
+./start.sh <host>
+
+Run full team with directional kicks enabled:
+./start_directionalkicks.sh <host>
+
+Run penalty kick shooter:
+./start_penalty_kicker.sh <host>
+
+Run penalty kick goalie:
+./start_penalty_goalie.sh <host>
+
+Kill team:
+./kill.sh
+
+List command line options:
+./utaustinvilla --help
+
+
+-- Start scripts for running challenge agents --
+To be used with challenge framework at 
+https://github.com/magmaOffenburg/magmaChallenge
+(start scripts should be renamed to startChallengePlayer.sh when used with the
+challenge framework)
+
+Start script for keepaway challenge:
+start_keepawaychallenge.sh <host> <port> 
+
+Start script for gazebo challenge:
+start_gazebochallenge.sh <host> <port>
+
+
+Team members:
+Patrick MacAlpine, Min Bi, Mahmut Tarik Ozkaya, Jordan Torres, Matt Union, 
+Xinyi Wang, Peter Stone
+
+Team homepage:
+http://www.cs.utexas.edu/~AustinVilla/sim/3dsimulation/
+
+Contact:
+Peter Stone (supervising professor): pstone@cs.utexas.edu
+Patrick MacAlpine (lead student): patmac@cs.utexas.edu
+
+
+This agent team was developed in the Learning Agents Research Group (LARG) at 
+the Artificial Intelligence Laboratory, The University of Texas at Austin.  
+LARG research in 2016 is supported in part by grants from NSF (CNS-1330072, 
+CNS-1305287), ONR (21C184-01), and AFOSR (FA9550-14-1-0087).  Peter Stone 
+serves on the Board of Directors of, Cogitai, Inc. The terms of this 
+arrangement have been reviewed and approved by UT Austin in accordance with 
+its policy on objectivity in research.
