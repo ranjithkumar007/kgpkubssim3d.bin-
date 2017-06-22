@@ -1,0 +1,8 @@
+page_begin
+name = catchRightAndGetUp
+play_param = 1
+page = catchRight
+page = moveArmToFallBack
+page = standUpFromBack
+page_end
+end

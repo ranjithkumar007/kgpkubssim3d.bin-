@@ -1,0 +1,6 @@
+
+(indicator-printers-service:8964): Gdk-WARNING **: indicator-printers-service: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(indicator-printers-service:2156): Gdk-WARNING **: indicator-printers-service: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

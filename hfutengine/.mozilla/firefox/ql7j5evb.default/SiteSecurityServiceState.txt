@@ -1,0 +1,4 @@
+www.google-analytics.com:HSTS	0	16981	1478099531839,1,1
+services.addons.mozilla.org:HSTS	0	16981	1498749618152,1,0
+self-repair.mozilla.org:HSTS	0	16981	1467216735829,1,1
+blocklist.addons.mozilla.org:HSTS	0	16981	1498749720843,1,0

@@ -1,0 +1,6 @@
+page_begin
+name = catchLeft
+play_param = 1
+page = catchRight 1
+page_end
+end

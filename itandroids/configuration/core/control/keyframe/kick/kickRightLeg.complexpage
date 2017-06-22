@@ -1,0 +1,6 @@
+page_begin
+name = kickRightLeg
+play_param = 1
+page = kickLeftLeg 1
+page_end
+end

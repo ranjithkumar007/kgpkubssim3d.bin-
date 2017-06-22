@@ -1,0 +1,187 @@
+Activating service name='org.ayatana.bamf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+Activating service name='org.gtk.vfs.Daemon'
+
+** (at-spi2-registryd:31392): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:31392): WARNING **: Unable to register client with session manager
+Successfully activated service 'org.gtk.vfs.Daemon'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='com.canonical.indicator.keyboard'
+Successfully activated service 'com.canonical.indicator.keyboard'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Successfully activated service 'org.gnome.ScreenSaver'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.freedesktop.Notifications'
+Successfully activated service 'org.freedesktop.Notifications'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+** Message: Lost the name, shutting down.
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+
+(zeitgeist-datahub:31805): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:31805): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+
+(process:31838): accounts-glib-WARNING **: Error opening accounts DB: unable to open database file
+
+(process:31838): GLib-GObject-CRITICAL **: object AgManager 0x1a778a0 finalized while still in-construction
+
+(process:31838): GLib-GObject-CRITICAL **: Custom constructor for class AgManager returned NULL (which is invalid). Please use GInitable instead.
+
+(process:31838): accounts-glib-CRITICAL **: ag_manager_new_for_service_type: assertion 'AG_IS_MANAGER (manager)' failed
+
+** (process:31838): CRITICAL **: mcp_account_manager_uoa_init: assertion 'self->priv->manager != NULL' failed
+
+(process:31838): mcd-WARNING **: Unable to create directory '/home/teams/hfutengine/.local/share/telepathy/mission-control': Permission denied
+
+(process:31838): mcd-WARNING **: Failed to create file '/home/teams/hfutengine/.local/share/telepathy/mission-control/accounts.cfg.SD8QJY': No such file or directory
+
+** (process:31838): CRITICAL **: account_manager_uoa_list: assertion 'self->priv->manager != NULL' failed
+
+** (process:31838): CRITICAL **: account_manager_uoa_commit: assertion 'self->priv->manager != NULL' failed
+
+(process:31838): mcd-WARNING **: Unable to create directory '/home/teams/hfutengine/.local/share/telepathy/mission-control': Permission denied
+
+(process:31838): mcd-WARNING **: Failed to create file '/home/teams/hfutengine/.local/share/telepathy/mission-control/accounts.cfg.Q88QJY': No such file or directory
+
+** (process:31838): CRITICAL **: account_manager_uoa_ready: assertion 'self->priv->manager != NULL' failed
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:     A trash files/ directory should only have files linked or unlinked (via moves or deletes).  Some other operation has been detected on a file in the directory (eg: a file has been modified).  Likely, the data reported by the trash backend will now be inconsistent.
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: hfutengine, type: 1
+
+
+
+** (process:31737): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/4 (g-dbus-error-quark, 19)
+
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: hfutengine.2, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: CMakeFiles, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: CMakeCache.txt, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: cmake_install.cmake, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: Makefile, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: hfutengine.3, type: 1
+
+
+
+** (process:31737): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/16 (g-dbus-error-quark, 19)
+
+
+** (notify-osd:31657): WARNING **: dnd_is_screensaver_active(): Got error "Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken."
+
+
+** (process:31737): WARNING **: send_done_cb: No such interface 'org.gtk.vfs.Enumerator' on object at path /org/gtk/vfs/client/enumerator/20 (g-dbus-error-quark, 19)
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: hfut, type: 1
+
+
+
+** (process:31737): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:31737): WARNING **:   dir: /home/teams/hfutengine/.local/share/Trash/files, file: Makefile.2, type: 1
+
+
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:31803): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+
+(unity-scope-home:685): unity-scope-home-WARNING **: platform-info.vala:112: Unable to read SIM properties: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+
+(process:701): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Failed to open file '/home/teams/hfutengine/.gtk-bookmarks': No such file or directory
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+** (notify-osd:31657): WARNING **: dnd_is_screensaver_active(): Got error "Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken."
+
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+
+(unity-scope-home:685): unity-scope-home-WARNING **: scope.vala:235: Failed to get list of remote scopes: Request failed with error 2
+                                                                                                                                         

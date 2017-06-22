@@ -1,0 +1,13 @@
+
+(unity-panel-service:6875): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:6875): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:6875): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:6875): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+
+** (unity-panel-service:6875): WARNING **: Unable to emit ReSync signal: The connection is closed
+
+(unity-panel-service:6875): Indicator-Appmenu-CRITICAL **: OMG! Unable to get a connection to DBus

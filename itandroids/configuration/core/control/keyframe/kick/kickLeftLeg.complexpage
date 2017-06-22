@@ -1,0 +1,8 @@
+page_begin
+name = kickLeftLeg
+play_param = 1
+page = prepFrontKick
+page = moveLegBack
+page = moveLegFront
+page_end
+end

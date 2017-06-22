@@ -1,0 +1,27 @@
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2309): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Gtk-CRITICAL **: gtk_label_set_text_with_mnemonic: assertion 'str != NULL' failed
+
+(unity-panel-service:2309): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2309): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2309): Indicator-Appmenu-CRITICAL **: OMG! Unable to get a connection to DBus
+g_dbus_connection_real_closed: Remote peer vanished with error: Error receiving message: Connection reset by peer (g-io-error-quark, 0). Exiting.
+
+** (unity-panel-service:2309): WARNING **: Unable to emit ReSync signal: The connection is closed

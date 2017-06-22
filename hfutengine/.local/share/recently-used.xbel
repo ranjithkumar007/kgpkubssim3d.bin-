@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/Untitled%20Folder/Miracle3D(already%20complie)/kill.sh" added="2016-06-29T15:28:07Z" modified="2016-06-29T15:28:07Z" visited="2016-06-29T15:28:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-29T15:28:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/hfut/2016.tar.gz" added="2016-06-30T06:23:10Z" modified="2016-06-30T06:30:43Z" visited="2016-06-30T06:23:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-06-30T06:30:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/hfut" added="2016-06-30T06:23:16Z" modified="2016-06-30T06:23:16Z" visited="2016-06-30T06:23:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2016-06-30T06:23:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/hfut/2014%E7%9C%81%E8%B5%9B/build/start.sh" added="2016-06-30T06:28:13Z" modified="2016-06-30T06:28:13Z" visited="2016-06-30T06:28:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:28:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/hfut/2014%E7%9C%81%E8%B5%9B/build/CMakeCache.txt" added="2016-06-30T06:31:53Z" modified="2016-06-30T06:31:53Z" visited="2016-06-30T06:31:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:31:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/test2/2014%E7%9C%81%E8%B5%9B/build2/start.sh" added="2016-06-30T06:41:12Z" modified="2016-06-30T06:42:49Z" visited="2016-06-30T06:41:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:42:49Z" count="6"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-06-30T06:42:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/test2/2014%E7%9C%81%E8%B5%9B/build/start.sh" added="2016-06-30T06:49:17Z" modified="2016-06-30T06:49:47Z" visited="2016-06-30T06:49:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:49:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/test2/2014%E7%9C%81%E8%B5%9B/decision.cpp" added="2016-06-30T06:50:34Z" modified="2016-06-30T06:50:34Z" visited="2016-06-30T06:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:50:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/kill.sh" added="2016-06-30T06:51:38Z" modified="2016-06-30T06:51:39Z" visited="2016-06-30T06:51:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-06-30T06:51:38Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:51:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/start.sh" added="2016-06-30T06:51:46Z" modified="2016-06-30T06:51:59Z" visited="2016-06-30T06:51:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-06-30T06:51:59Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/2014%E7%9C%81%E8%B5%9BFInal.tar.gz" added="2016-07-01T11:01:35Z" modified="2016-07-01T11:02:04Z" visited="2016-07-01T11:01:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-07-01T11:02:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop" added="2016-07-01T11:01:40Z" modified="2016-07-01T11:02:08Z" visited="2016-07-01T11:01:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2016-07-01T11:02:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/teams/hfutengine/Desktop/2014%E7%9C%81%E8%B5%9B/build2/start.sh" added="2016-07-01T11:09:16Z" modified="2016-07-01T11:09:33Z" visited="2016-07-01T11:09:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-07-01T11:09:33Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
