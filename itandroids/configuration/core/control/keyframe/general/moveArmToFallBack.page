@@ -1,0 +1,16 @@
+type = motion
+version = 1.0
+enable = 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+motor_type = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+interpolator = spline
+page_begin
+name = moveArmToFallBack
+compliance = 7 7 7 7 7 7 7 5 5 5 5 5 5 5 5 6 6 6 6 5 5 5 5 5 5 5
+play_param = 0 0 1 5 32
+step = 0 0 0 0 0 0 -0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+step = 0 0 0 0.17 0 0 -0 0 0 0 0 0 0 -0.17 0 0 0 0 0 0 0 0 0 1
+step = 0 0 0 1.56 0 0 -0 0 0 0 0 0 0 -1.56 0 0 0 0 0 0 0 0 0 1
+step = 0 0 0 0.17 0 0 -0 0 0 0 0 0 0 -0.17 0 0 0 0 0 0 0 0 0 1
+step = 0 0 0 0 0 0 -0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+page_end
+end

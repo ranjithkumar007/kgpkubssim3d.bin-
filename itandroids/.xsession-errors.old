@@ -1,0 +1,26 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd respawning too fast, stopped
+init: unity-settings-daemon main process (2066) terminated with status 1
+init: hud main process (2070) terminated with status 1
+init: gnome-session (Unity) main process (2080) terminated with status 1
+init: unity-panel-service main process (2084) terminated with status 1
+init: indicator-printers main process (2156) terminated with status 1
+init: unity-panel-service-lockscreen main process (2612) terminated with status 1
+init: indicator-bluetooth main process (2143) killed by TERM signal
+init: indicator-power main process (2145) killed by TERM signal
+init: indicator-datetime main process (2150) killed by TERM signal
+init: indicator-session main process (2162) killed by TERM signal
+init: Disconnected from notified D-Bus bus
+init: indicator-application main process (2190) terminated with status 1

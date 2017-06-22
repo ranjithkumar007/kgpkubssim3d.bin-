@@ -1,0 +1,19 @@
+logrotate state -- version 2
+"/home/teams/hfutengine/.cache/upstart/at-spi2-registryd.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/unity-panel-service.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/upstart-event-bridge.log" 2016-6-29-16:29:44
+"/home/teams/hfutengine/.cache/upstart/gnome-keyring-gpg.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/unity7.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/indicator-session.log" 2016-6-30-9:0:17
+"/home/teams/hfutengine/.cache/upstart/ssh-agent.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/gnome-keyring-ssh.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/unity-settings-daemon.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/gnome-session-Unity.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/dbus.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/window-stack-bridge.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/gpg-agent.log" 2016-6-29-16:29:44
+"/home/teams/hfutengine/.cache/upstart/hud.log" 2016-7-1-13:0:0
+"/home/teams/hfutengine/.cache/upstart/indicator-sound.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/update-notifier-release.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/im-config.log" 2016-7-1-13:1:39
+"/home/teams/hfutengine/.cache/upstart/indicator-application.log" 2016-7-1-13:0:0

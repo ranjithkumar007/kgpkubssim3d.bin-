@@ -1,0 +1,13 @@
+page_begin
+name = test
+play_param = 1
+page = getReady
+page = fallBack
+page = standUpFromBack
+page = getReady
+page = getReady
+page = getReady
+page = getReady
+page = getReady
+page_end
+end

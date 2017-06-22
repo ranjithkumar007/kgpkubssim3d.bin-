@@ -1,0 +1,6 @@
+page_begin
+name = kickBack
+play_param = 1
+page = kickBackModule
+page_end
+end

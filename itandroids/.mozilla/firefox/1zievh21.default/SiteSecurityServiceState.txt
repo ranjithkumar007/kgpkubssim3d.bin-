@@ -1,0 +1,1 @@
+self-repair.mozilla.org:HSTS	0	16984	1467445018057,1,1

@@ -1,0 +1,7 @@
+page_begin
+name = kick5m
+play_param = 1
+page = getReady
+page = kick5mModule 1
+page_end
+end

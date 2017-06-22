@@ -1,0 +1,15 @@
+type = motion
+version = 1.0
+enable = 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+motor_type = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+interpolator = linear
+page_begin
+name = fallBack
+compliance = 7 7 7 7 7 7 7 5 5 5 5 5 5 5 5 6 6 6 6 5 5 5 5 5 5 5
+play_param = 0 0 1 2 32
+step = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+step = 0 0 0 0 0 0 0 0 0 0 0.801913 0 0 0 0 0 0 0 0 0 0.808937 0 0 1
+step = 0 0 0 0 0 0 0 0 0 0 0.401913 0 0 0 0 0 0 0 0 0 0.408937 0 0 1
+step = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+page_end
+end

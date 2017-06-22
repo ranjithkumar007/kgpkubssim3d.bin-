@@ -1,0 +1,7 @@
+page_begin
+name = standUpFromBack
+play_param = 1
+page = getReady
+page = standUpFromBackModule
+page_end
+end

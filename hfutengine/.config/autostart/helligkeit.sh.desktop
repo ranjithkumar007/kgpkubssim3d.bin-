@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=xbacklight -set 100
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[de_DE]=Helligkeit
+Name=Helligkeit
+Comment[de_DE]=Helligkeitseinstellung
+Comment=Helligkeitseinstellung
+

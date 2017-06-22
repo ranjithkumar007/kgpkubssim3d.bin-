@@ -1,0 +1,6 @@
+page_begin
+name = catchRight
+play_param = 1
+page = catchRightModule
+page_end
+end
